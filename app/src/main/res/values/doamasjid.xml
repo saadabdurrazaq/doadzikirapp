@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doamasjid">
+        <item>"Sebelum pergi ke masjid:\n اللّهُـمَّ اجْعَـلْ في قَلْبـي نورا ، وَفي لِسـاني نورا، وَاجْعَـلْ في سَمْعي نورا، وَاجْعَـلْ في بَصَري نورا، وَاجْعَـلْ مِنْ خَلْفي نورا، وَمِنْ أَمامـي نورا، وَاجْعَـلْ مِنْ فَوْقـي نورا ، وَمِن تَحْتـي نورا .اللّهُـمَّ أَعْطِنـي نورا"</item>
+
+        <item>"Ketika masuk masjid:\n أَعوذُ باللهِ العَظيـم وَبِوَجْهِـهِ الكَرِيـم وَسُلْطـانِه القَديـم مِنَ الشّيْـطانِ الرَّجـيم،[ بِسْـمِ الله، وَالصَّلاةُ وَالسَّلامُ عَلى رَسولِ الله]، اللّهُـمَّ افْتَـحْ لي أَبْوابَ رَحْمَتـِك"</item>
+
+        <item>"Keluar dari masjid:\n بِسمِ الله وَالصّلاةُ وَالسّلامُ عَلى رَسولِ الله، اللّهُـمَّ إِنّـي أَسْأَلُكَ مِـنْ فَضْـلِك، اللّهُـمَّ اعصِمْنـي مِنَ الشَّيْـطانِ الرَّجـيم"</item>
+    </string-array>
+    <string-array name="latinmasjid">
+        <item>"Allahummaj'al fi qalbi nuran, wa fi lisani nuran, waj'al fi sam'i nuran, waj'al fi bashari nuran, waj'al min khalfi nuran, wa min amami nuran, waj'al min fawki nuran, wa min tahti nuran, Allahumma a'tini nuran."</item>
+        <item>"A’udzu billlahil ‘adzim, wa biwajhihil karim, wa sulthonihil qodim, minas syaithonir rojim, bismillah, wash sholatu was salaamu ‘ala rasulillah, allahummaftah liy abwaba rohmatik."</item>
+        <item>"Bismillahi wash sholatu was salamu ‘ala rosulillahi, allahumma inni as-aluka min fadlika, allahumma a’shimniy minas syaitoni rajiim."</item>
+    </string-array>
+    <string-array name="artimasjid">
+        <item>"Artinya:\nYa Allah, jadikanlah cahaya di dalam hatiku dan pada lisanku, jadikanlah cahaya dalam pendengaranku, jadikanlah cahaya pada penglihatanku, jadikanlah cahaya dari arah belakangku dan dari arah depanku, jadikanlah cahaya dari arah atasku dan dari arah bawahku. Ya Allah, berilah aku cahaya."</item>
+        <item>"Artinya:\nAku berlindung kepada Allah Yang Maha Agung, dengan Wajah-Nya Yang Mulia, dan Kekuasaan-Nya yang abadi dari setan yang terkutuk. Dengan nama Allah dan semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, bukalah pintu-pintu rahmat-Mu untukku"</item>
+        <item>"Artinya:\nDengan nama Allah dan semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, sesungguhnya aku meminta kepada-Mu karunia-Mu. Ya Allah, peliharalah aku dari godaan setan yang terkutuk."</item>
+    </string-array>
+    <string-array name="sumbermasjid">
+        <item>"Sumber:\nHR. Bukhari 11/116 No. 6316, HR. Muslim 1/526, 529, 530 No. 763, dan HR. Tirmidzi 5/483 No. 3419. HR. Bukhari pada Adabul Mufrad No. 695 hal. 258. Sanad dishahihkan oleh Al Albani pada Shahih Adabul Mufrad No. 536. Disebutkan Ibnu Hajar dalam Fathul Bari dengan menisbatkannya kepada Ibnu Abi 'Ashim dalam kitab Ad Du'a. Lihat Fathul Bari 11/118."</item>
+        <item>"Sumber:\nHR. Abu Daud No. 466. Lihat Shahihul Jami"</item>
+        <item>"Sumber:\nLihat Shahih Ibnu Majah 1/129."</item>
+    </string-array>
+    <string-array name="bacamasjid">
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+    </string-array>
+</resources>

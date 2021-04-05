@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="banguntidur">
+       <item> " الحَمْـدُ لِلّهِ الّذي أَحْـيانا بَعْـدَ ما أَماتَـنا وَإليه النُّـشور"</item>
+        <item> "الحمدُ للهِ الذي عافاني في جَسَدي وَرَدّ عَليّ روحي وَأَذِنَ لي بِذِكْرِه"</item>
+        <item>"لَا إِلَهَ إِلَّا اللهُ وَحْدَهُ لَا شَـرِيْكَ لَهُ. لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. سُبْحَانَ اللهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللهُ وَاللهُ أَكْبَرُ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ الْعَلِيِّ الْعَظِيْمِ رَبِّ اغْفِرْ ليِ"</item>
+    </string-array>
+    <string-array name="latinbt">
+        <item>"Alhamdulillahilladzi ahyana ba'da ma amatana wa ilaihin nusyur"</item>
+        <item>"Alhamdulillahilladzi 'afini fi jasadi wa rodda alayya ruhi wa adzina li bidzikrihi"</item>
+        <item>"La ilaha illalllahu wahdahu la syarika lah, lahul mulku wa lahul hamdu wa huwa ala kulli syain qodir, subhanallahi wal hamdulillah wa la ilaha illallahu wallahu akbar, wa la haula wa la quwwata illa billahil aliyyil adzim, rabbighfirli"</item>
+    </string-array>
+    <string-array name="artibt">
+        <item>"Artinya:\nSegala puji bagi Allah Yang membangunkan kami setelah ditidurkan-Nya dan kepada-Nya kami dibangkitkan."</item>
+        <item>"Artinya:\nSegala puji bagi Allah Yang telah memberikan kesehatan kepada-ku, mengembalikan ruh, dan merestuiku untuk berdzikir kepada-Nya"</item>
+        <item>"Tiada Tuhan selain Allah, Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujian. Dia-lah Yang Maha Kuasa atas segala sesuatu. Maha suci Allah, segala puji bagi Allah, tiada Tuhan selain Allah, Allah Maha Besar, tiada daya dan kekuatan kecuali dengan pertolongan Allah Yang Maha Tinggi dan Maha Agung. Ya Tuhanku, ampunilah dosaku."</item>
+    </string-array>
+    <string-array name="sumberbt">
+        <item>"Sumber:\nHR. Bukhari dalam Fathul Bari 11/113 No. 6314 dan HR. Muslim 4/2083 No. 2711."</item>
+        <item>"Sumber:\nHR. Tirmidzi 5/473 No. 3401. Lihat Shahih Sunan Tirmidzi 3/144."</item>
+        <item>"Sumber:\nHR. Bukhari dalam Fathul Bari 3/39 No. 1154 dan selainnya. Lafazh menurut Ibnu Majah. Lihat Shahih Ibnu Majah 2/335."</item>
+    </string-array>
+    <string-array name="bacabangun">
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+    </string-array>
+</resources>

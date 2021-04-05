@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doasetelahmakan">
+        <item>"الْحَمْدُ لِلَّهِ الَّذِيْ أَطْعَمَنِيْ هَذَا وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ"</item>
+        <item>"الْحَمْدُ لِلَّهِ حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ، غَيْرَ (مَكْفِيٍّ وَلَا) مُوَدَّعٍ، وَلَا مُسْتَغْنًى عَنْهُ رَبَّنَاُ"</item>
+    </string-array>
+
+    <string-array name="latinsetelahmakan">
+        <item>"Alhamdulillahilladzi ath'amani hadza wa razaqanihi min ghairi haulin minni wala quwwah"</item>
+        <item>"Alhamdulillahi hamdan katsiran thayyiban mubarakan fihi, ghaira makfiyyin wala muwadda' wa la mustaghnan anhu rabbuna"</item>
+    </string-array>
+
+    <string-array name="artisetelahmakan">
+        <item>"Artinya:\nSegala puji bagi Allah Yang memberi makan ini kepadaku dan Yang memberi rezeki kepadaku tanpa daya dan kekuatanku."</item>
+        <item>"Artinya:\nSegala puji bagi Allah (aku memuji-Nya) dengan pujian yang banyak, yang baik dan penuh berkah, yang senantiasa dibutuhkan, diperlukan dan tidak bisa ditinggalkan, ya Tuhan kami."</item>
+    </string-array>
+
+    <string-array name="sumbersetelahmakan">
+        <item>"Sumber:\nEmpat kitab sunan kecuali An Nasai: HR. Abu Daud No. 4025, HR. Tirmidzi No. 3458, dan HR. Ibnu Majah No. 3285. Lihat Shahih Tirmidzi 3/159."</item>
+        <item>"Sumber:\nHR. Bukhari 6/214 No. 5458 dan HR. Tirmidzi 5/507 No. 3456."</item>
+    </string-array>
+
+    <string-array name="bacasetelahmakan">
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+    </string-array>
+
+</resources>

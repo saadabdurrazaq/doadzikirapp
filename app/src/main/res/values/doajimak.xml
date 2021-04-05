@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doajimak">
+        <item>"بِسْمِ اللهِ اَللَّهُمَّ جَنِّبْنَا الشَّيْطَانَ وَجَنِّبِ الشَّيْطَانَ مَا رَزَقْتَنَا"</item>
+    </string-array>
+    <string-array name="latinjimak">
+        <item>"Bismillahi Allahumma Jannibna assyaithana wa jannibi assyaithana ma razaqtana"</item>
+    </string-array>
+    <string-array name="artijimak">
+        <item>"Artinya:\nDengan Nama Allah, Ya Allah, Jauhkan kami dari setan, dan jauhkan setan untuk mengganggu apa yang Engkau rezekikan kepada kami"</item>
+    </string-array>
+    <string-array name="sumberjimak">
+        <item>"Sumber:\nHR. Bukhari 6/141 No. 141 dan HR. Muslim 2/1028 No. 1434."</item>
+    </string-array>
+    <string-array name="bacajimak">
+        <item>Baca 1x</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doawc">
+        <item>"Ketika mau masuk WC:\n بِسْمِ اللهِ اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثٍِ"</item>
+        <item>"Ketika keluar dari WC:\n غُفْرَانَكَِ"</item>
+    </string-array>
+    <string-array name="latinwc">
+        <item>"Bismillahi allahumma inni a'udzubika minal khubutsi wal khabaitsi"</item>
+        <item>"Ghufranaka"</item>
+    </string-array>
+    <string-array name="artiwc">
+        <item>"Artinya:\nDengan nama Allah (aku masuk). Ya Allah, sesungguhnya aku berlindung kepada-Mu dari godaan setan laki-laki dan perempuan."</item>
+        <item>"Artinya:\nAku minta ampun kepada-Mu."</item>
+    </string-array>
+    <string-array name="sumberwc">
+        <item>"Sumber:\nHR. Bukhari 1/45 No. 142 dan HR. Muslim 1/283 No. 375. Tambahan 'bismillah' pada bagian awal terdapat pada Sunan Sa'id bin Manshur. Lihat Fathul Bari 1/244."</item>
+        <item>"Sumber:\nKitab Sunan yang empat kecuali An Nasai: HR. Abu Daud No. 30, HR. Tirmidzi No. 7, dan HR. Ibnu Majah No. 300. An Nasai pada 'Amalul Yaumi wal Lailah No. 79. Dishahihkan oleh Al Albani pada Shahih Sunan Abu Daud 1/19."</item>
+    </string-array>
+    <string-array name="bacawc">
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+    </string-array>
+</resources>

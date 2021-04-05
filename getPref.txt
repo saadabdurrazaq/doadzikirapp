@@ -1,0 +1,88 @@
+﻿ //Set Arab font size via spinner
+        String[] sizeArab = itemView.getResources().getStringArray(R.array.country_arrays);
+        SharedPreferences sp = itemView.getContext().getSharedPreferences("My_Prefs", Activity.MODE_PRIVATE);
+        int sizeItemSelected = sp.getInt("VALUE", 24);
+
+        String sizeToSetTextViewSizeTo = sizeArab[sizeItemSelected];
+        int tvSize = Integer.parseInt(sizeToSetTextViewSizeTo);
+
+        mTitle.setTextSize(tvSize);
+        
+
+
+//Set latin font size
+        String[] sizeArray = itemView.getResources().getStringArray(R.array.size_arrays);
+        SharedPreferences spl = itemView.getContext().getSharedPreferences("Size_Latin", Activity.MODE_PRIVATE);
+        int sizeLatinSelected = spl.getInt("SIZELATIN", 7);
+
+        String setSizeLatin = sizeArray[sizeLatinSelected];
+        int lSize = Integer.parseInt(setSizeLatin);
+
+        mLatin.setTextSize(lSize);
+        mArti.setTextSize(lSize);
+        mSumber.setTextSize(lSize);
+
+
+
+//Set tipe font arab
+        String[] tipeArabArray = itemView.getResources().getStringArray(R.array.type_arab);
+        SharedPreferences tpl = itemView.getContext().getSharedPreferences("Type_Arab", Activity.MODE_PRIVATE);
+        int tipeArabSelected = tpl.getInt("TYPEARAB", 7);
+
+        String setTipeArab = tipeArabArray[tipeArabSelected];
+
+        if (setTipeArab.equals("Type 1")) {
+
+            Typeface taf0 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_arab_1.otf");
+            mTitle.setTypeface(taf0);
+        }
+        else
+        if (setTipeArab.equals("Type 2")) {
+
+            Typeface taf2 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_arab_2.ttf");
+            mTitle.setTypeface(taf2);
+        }
+        else
+        if (setTipeArab.equals("Type 3")) {
+
+            Typeface taf3 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_arab_3.ttf");
+            mTitle.setTypeface(taf3);
+        }
+        else
+        if (setTipeArab.equals("Type 4")) {
+
+            Typeface taf4 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_arab_4.ttf");
+            mTitle.setTypeface(taf4);
+        }
+
+
+//Set tipe font latin
+        String[] tipeLatinArray = itemView.getResources().getStringArray(R.array.type_latin);
+        SharedPreferences tpfl = itemView.getContext().getSharedPreferences("Tipe_Latin", Activity.MODE_PRIVATE);
+        int tipeLatinSelected = tpfl.getInt("TIPELATIN", 24);
+
+        String setTipeLatin = tipeLatinArray[tipeLatinSelected];
+
+        if (setTipeLatin.equals("Type 1")) {
+
+            Typeface tlf0 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_latin_1.otf");
+            mTitle.setTypeface(tlf0);
+        }
+        else
+        if (setTipeLatin.equals("Type 2")) {
+
+            Typeface tlf2 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_latin_2.ttf");
+            mTitle.setTypeface(tlf2);
+        }
+        else
+        if (setTipeLatin.equals("Type 3")) {
+
+            Typeface tlf3 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_latin_3.ttf");
+            mTitle.setTypeface(tlf3);
+        }
+        else
+        if (setTipeLatin.equals("Type 4")) {
+
+            Typeface tlf4 = Typeface.createFromAsset(itemView.getContext().getAssets(),"fonts/teks_latin_4.ttf");
+            mTitle.setTypeface(tlf4);
+        }

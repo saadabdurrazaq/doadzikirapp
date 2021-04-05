@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doasebelummakan">
+        <item>"بِسْمِ اللهِ
+(بِسْمِ اللهِ فِيْ أَوَّلِهِ وَآخِرِهِ)"</item>
+
+        <item>"اَللَّهُمَّ بَارِكْ لَنَا فِيْهِ وَأَطْعِمْنَا خَيْرًا مِنْهُ"</item>
+    </string-array>
+
+    <string-array name="latinsebelummakan">
+        <item>"Bismillah / Bismilmillahi fi awwalihi wa akhirihi"</item>
+        <item>"Allahumma barik lana fihi wa ath'imna khairan minhu"</item>
+    </string-array>
+
+    <string-array name="artisebelummakan">
+        <item>"Artinya:\nDengan menyebut nama Allah." (Apabila lupa pada permulaannya, bacalah, بِسْمِ اللهِ فِيْ أَوَّلِهِ وَآخِرِهِ "Dengan menyebut nama Allah, pada awalnya dan akhirnya")."</item>
+        <item>"Artinya:\nYa Allah, Berilah kami berkah dengan makan itu dan berilah makanan yang lebih baik."</item>
+    </string-array>
+
+    <string-array name="sumbersebelummakan">
+        <item>"Sumber:\nHR. Abu Daud 3/347 No. 3767 dan HR. Tirmidzi 4/288 No. 1858. Lihat Shahih Tirmidzi 2/167."</item>
+        <item>"Sumber:\nHR. Tirmidzi 5/506 No. 3455. Lihat Shahih Tirmidzi 3/158."</item>
+    </string-array>
+
+    <string-array name="bacasebelummakan">
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+    </string-array>
+
+</resources>

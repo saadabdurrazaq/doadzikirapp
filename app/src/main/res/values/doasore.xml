@@ -1,0 +1,166 @@
+<resources>
+    <string-array name ="doasore">
+    <item> "اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِنْ عِلْمِهِ إِلاَّ بِمَا شَاءَ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ"</item>
+
+    <item>"قُلْ هُوَ اللَّهُ أَحَدٌ، اللَّهُ الصَّمَدُ، لَمْ يَلِدْ وَلَمْ يُولَدْ، وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ"</item>
+
+    <item>"قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ، مِن شَرِّ مَا خَلَقَ، وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ، وَمِن شَرِّالنَّفَّاثَاتِ فِي الْعُقَدِ، وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"</item>
+
+    <item>"قُلْ أَعُوذُ بِرَبِّ النَّاسِ، مَلِكِ النَّاسِ، إِلَهِ النَّاسِ، مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ، الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ، مِنَ الْجِنَّةِ وَ النَّاسِ"</item>
+
+    <item>"أَمْسَيْـنا وَأَمْسـى المـلكُ لله وَالحَمدُ لله ، لا إلهَ إلاّ اللّهُ وَحدَهُ لا شَريكَ لهُ، لهُ المُـلكُ ولهُ الحَمْـد، وهُوَ على كلّ شَيءٍ قدير ، رَبِّ أسْـأَلُـكَ خَـيرَ ما في هـذهِ اللَّـيْلَةِ وَخَـيرَ ما بَعْـدَهـا ، وَأَعـوذُ بِكَ مِنْ شَـرِّ ما في هـذهِ اللَّـيْلةِ وَشَرِّ ما بَعْـدَهـا ، رَبِّ أَعـوذُبِكَ مِنَ الْكَسَـلِ وَسـوءِ الْكِـبَر ، رَبِّ أَعـوذُبِكَ مِنْ عَـذابٍ في النّـارِ وَعَـذابٍ في القَـبْر"</item>
+
+        <item>"اللّهـمَّ أَنْتَ رَبِّـي لا إلهَ إلاّ أَنْتَ ، خَلَقْتَنـي وَأَنا عَبْـدُك ، وَأَنا عَلـى عَهْـدِكَ وَوَعْـدِكَ ما اسْتَـطَعْـت ، أَعـوذُبِكَ مِنْ شَـرِّ ما صَنَـعْت ، أَبـوءُ لَـكَ بِنِعْـمَتِـكَ عَلَـيَّ وَأَبـوءُ بِذَنْـبي فَاغْفـِرْ لي فَإِنَّـهُ لا يَغْـفِرُ الذُّنـوبَ إِلاّ أَنْتَ"</item>
+
+    <item>"رَضيـتُ بِاللهِ رَبَّـاً وَبِالإسْلامِ ديـناً وَبِمُحَـمَّدٍ صلى الله عليه وسلم نَبِيّـاً"</item>
+
+        <item>"اللّهُـمَّ إِنِّـي أَمسيتُ أُشْـهِدُك ، وَأُشْـهِدُ حَمَلَـةَ عَـرْشِـك ، وَمَلائِكَتِك ، وَجَمـيعَ خَلْـقِك ، أَنَّـكَ أَنْـتَ اللهُ لا إلهَ إلاّ أَنْـتَ وَحْـدَكَ لا شَريكَ لَـك ، وَأَنَّ ُ مُحَمّـداً عَبْـدُكَ وَرَسـولُـك"</item>
+
+        <item>"اللّهُـمَّ ما أَمسى بي مِـنْ نِعْـمَةٍ أَو بِأَحَـدٍ مِـنْ خَلْـقِك ، فَمِـنْكَ وَحْـدَكَ لا شريكَ لَـك ، فَلَـكَ الْحَمْـدُ وَلَـكَ الشُّكْـر"</item>
+
+        <item>"حَسْبِـيَ اللّهُ لا إلهَ إلاّ هُوَ عَلَـيهِ تَوَكَّـلتُ وَهُوَ رَبُّ العَرْشِ العَظـيم"</item>
+
+        <item>"بِسـمِ اللهِ الذي لا يَضُـرُّ مَعَ اسمِـهِ شَيءٌ في الأرْضِ وَلا في السّمـاءِ وَهـوَ السّمـيعُ العَلـيم"</item>
+
+    <item>"اللّهُـمَّ بِكَ أَمْسَـينا وَبِكَ أَصْـبَحْنا، وَبِكَ نَحْـيا وَبِكَ نَمُـوتُ وَإِلَـيْكَ الْمَصِيرُ"</item>
+
+    <item>"أَمْسَيْنَا عَلَى فِطْرَةِ الإسْلاَمِ، وَعَلَى كَلِمَةِ الإِخْلاَصِ، وَعَلَى دِينِ نَبِيِّنَا مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، وَعَلَى مِلَّةِ أَبِينَا إبْرَاهِيمَ حَنِيفاً مُسْلِماً وَمَا كَانَ مِنَ المُشْرِكِينَ"</item>
+
+    <item>"سُبْحـانَ اللهِ وَبِحَمْـدِهِ عَدَدَ خَلْـقِه ، وَرِضـا نَفْسِـه ، وَزِنَـةَ عَـرْشِـه ، وَمِـدادَ كَلِمـاتِـه"</item>
+
+    <item>"اللّهُـمَّ عافِـني في بَدَنـي ، اللّهُـمَّ عافِـني في سَمْـعي ، اللّهُـمَّ عافِـني في بَصَـري ، لا إلهَ إلاّ أَنْـتَ"</item>
+
+        <item>"اللّهُـمَّ إِنّـي أَعـوذُبِكَ مِنَ الْكُـفر ، وَالفَـقْر ، وَأَعـوذُبِكَ مِنْ عَذابِ القَـبْر ، لا إلهَ إلاّ أَنْـتَ"</item>
+
+        <item>"اللّهُـمَّ إِنِّـي أسْـأَلُـكَ العَـفْوَ وَالعـافِـيةَ في الدُّنْـيا وَالآخِـرَة ، اللّهُـمَّ إِنِّـي أسْـأَلُـكَ العَـفْوَ وَالعـافِـيةَ في ديني وَدُنْـيايَ وَأهْـلي وَمالـي ، اللّهُـمَّ اسْتُـرْ عـوْراتي وَآمِـنْ رَوْعاتـي ، اللّهُـمَّ احْفَظْـني مِن بَـينِ يَدَيَّ وَمِن خَلْفـي وَعَن يَمـيني وَعَن شِمـالي ، وَمِن فَوْقـي ، وَأَعـوذُ بِعَظَمَـتِكَ أَن أُغْـتالَ مِن تَحْتـي"</item>
+
+        <item>"يا حَـيُّ يا قَيّـومُ بِـرَحْمَـتِكَ أَسْتَـغـيث ، أَصْلِـحْ لي شَـأْنـي كُلَّـه ، وَلا تَكِلـني إِلى نَفْـسي طَـرْفَةَ عَـين"</item>
+
+        <item>"أَمْسَيْنا وَأَمْسَى الْمُلْكُ للهِ رَبِّ الْعَالَمَيْنِ، اللَّهُمَّ إِنَّي أسْأَلُكَ خَيْرَ هَذَه اللَّيْلَةِ فَتْحُهَا وَنُصَرُّهَا، وَنورَهُا و برَكَتَهُا، وَهُداهُا، وَأَعُوذُ بِكَ مِنْ شَرِّ مَا فيهِا وَشَرَّ مَا بَعْدَهَا"</item>
+
+        <item>"اللّهُـمَّ عالِـمَ الغَـيْبِ وَالشّـهادَةِ فاطِـرَ السّماواتِ وَالأرْضِ رَبَّ كـلِّ شَـيءٍ وَمَليـكَه ، أَشْهَـدُ أَنْ لا إِلـهَ إِلاّ أَنْت ، أَعـوذُ بِكَ مِن شَـرِّ نَفْسـي وَمِن شَـرِّ الشَّيْـطانِ وَشِـرْكِه ، وَأَنْ أَقْتَـرِفَ عَلـى نَفْسـي سوءاً أَوْ أَجُـرَّهُ إِلـى مُسْـلِم"</item>
+
+        <item>"أَعـوذُ بِكَلِمـاتِ اللّهِ التّـامّـاتِ مِنْ شَـرِّ ما خَلَـق"</item>
+
+    <item>"اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ على نَبِيِّنَا مُحمَّد"</item>
+
+    <item>"أسْتَغْفِرُ اللهَ العَظِيمَ الَّذِي لاَ إلَهَ إلاَّ هُوَ، الحَيُّ القَيُّومُ، وَأتُوبُ إلَيهِ"</item>
+
+    <item>"لَا إلَه إلّا اللهُ وَحَدُّهُ لَا شَرِيكَ لَهُ، لَهُ الْمَلِكَ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلُّ شَيْءِ قَدِيرِ"</item>
+
+    <item>"سُبْحَانَ اللَّهِ وَبِحَمْدِهِ"</item>
+    </string-array>
+
+    <string-array name="latinsore">
+        <item>"Allahu la ilaha illa Huwa, Al-Haiyul-Qaiyum La ta'khudhuhu sinatun wa la nawm, lahu ma fis-samawati wa ma fil-'ard Man dhal-ladhi yashfa'u 'indahu illa bi-idhnihi Ya'lamu ma baina aidihim wa ma khalfahum, wa la yuhituna bi shai'im-min 'ilmihi illa bima sha'a Wasi'a kursiyuhus-samawati wal ard, wa la ya'uduhu hifdhuhuma Wa Huwal 'Aliyul-Adheem"</item>
+        <item>"Qul huwallahu ahad. Allahu somad. Lam yalid walam yulad. Walam yakun lahu kufuwan ahad. "</item>
+        <item>"Qul a’udzu bi rabbil falaq. Min syarri maa khalaq. Wa min syarri ghasiqin idzaa waqab.Wa min syarrin-naffaatsaati fil ‘uqad. Wa min syarri hasidin idzaa hasad."</item>
+        <item>"Qul ‘audzu bi rabbin-naas. Malikin-naas. Ilaahin-naas. Min syarril was-waasil khannas. Alladzii yuwaswisu fii shudurin-naas. Minal jinnati wan-naas."</item>
+        <item>"Amsainaa wa amsal mulku lillah. Wal hamdulillah. Laa ilaaha illallah wahdahu laa syarika lah. Lahul mulku wa lahul hamdu wa huwa 'alaa kulli syai-in qadir. Rabbi as-aluka khaira maa fi hadzal yaumi wa khaira maa ba'dahu. Wa a'udzu bika min syarri maa fii hadzal yaumi wa syarri maa ba'dahu. Rabbi a'udzu bika minal kasali wa suu-il kibri, rabbi a'udzubika min 'adzaabin fin-naari wa 'adzaabin fil qabri."</item>
+        <item>"Allahumma Anta Robbi, Laa Ilaaha Illa Anta, Kholaqtani wa ana abduKa, wa ana ‘alaa ‘ahdika wa wa’dika mastatho’tu, Audzubika min syarri maa shona’tu, Abu’u laka bi ni’matiKa ‘alaiyya wa abu’u laKa bidzanbi faghfirlii fainnahu laa yaghfiru dzunuuba illa Anta "</item>
+        <item>"Radhitu Billahi Rabba, Wa Bil islami Dina, Wabi muhammadiin shallallahu alaihi wasallama Nabiya"</item>
+        <item>"Allahumma inni amsaitu usyhiduka wa usyhidu hamalata ‘arsyika wa malaaikataka wa jami’a khalqika annaka antallahu laa ilaha illa anta wahdaka laa syarikalaka. Wa anna Muhammadan ‘abduka wa rasuluka."</item>
+        <item>"Allahumma ma amsa bi min ni’matin auw bin ahadin min khalqika faminka wahdaka laa syarikalaka falakal hamdu walakasy syukur"</item>
+        <item>"Hasbiyallah laa ilaaha illa Huwa 'alaihi tawakkaltu wa huwa Rabbul 'arsyil 'azhim"</item>
+        <item>"Bismillahilladzi La Yadhurru Ma'asmihi Syai'un fil Ardhi wa Laa fis Sama'i wa Huwas Sami'ul 'Alim"</item>
+        <item>"Allahumma Bika amsaina , Wa Bika asbahna , Wa Bika Nahya , Wa Bika Namut Wa Ilaikalmashir"</item>
+        <item>"Amsaina ‘ala fitratil Islam, wa’ ala kalimatil Ikhlas, wa’ ala diini nabiyina Muhammad, wa’ala milati abina Ibrahim, Hanifan musliman wa ma kana minal musyrikin"</item>
+        <item>"Subhanallahi wa bihamdihi 'adada khalqihi, wa ridhaka nafsihi,. wa ziinata 'Arsyihi, wa midada kalimatihi"</item>
+        <item>"Allahumma 'afini fi badani. Allaahuma 'afini fi sam'i. Allahumma 'afini fi bashari. La ilahailla anta"</item>
+        <item>"Allahumma inni a’udzubika minal kufri wal faqri wa a’udzubika min ‘adzaa bil qobri, laa ilaha illa anta"</item>
+        <item>"Allahumma inni as-aluka al ‘afiyata fi dini wa dun-yaya, wa ahli wa mali. Allahumma ustur ‘aurati, wa a min rau’ati, wahfazhni min baina yadayya, wa min khalfi, wa ‘an yamini, wa ‘an syimali, wa min fauqi. Wa a’udzu bi ‘azhamatika an ughtala min tahti."</item>
+        <item>"Ya hayyu ya qoyyum bi rahmatika astaghiits, wa ash-lihlii sya'nii kullahu wa laa takilnii ilaa nafsii thorfata 'ainin"</item>
+        <item>"Amsaina wa amsal-mulku lillahi Rabbil-‘alamin. Allahumma inni as’aluka khayra hadhal-yawmi: Fathahu wa nasrahu wa nurahu, wa barakatahu, wa hudahu, wa a’udhu bika min sharri ma fihi wa sharri ma ba’dahu"</item>
+        <item>"Allahumma ‘aalimal ghoybi wasy syahaadah faathiros samaawaati wal ardh, Robba kulli syai-in wa maliikah. Asyhadu alla ilaha illa anta. A’udzu bika min syarri nafsii wa min syarrisy syaythooni wa syirkihi, wa an aqtarifa ‘alaa nafsii suu-an aw ajurruhu ilaa muslim."</item>
+        <item>"A'udzu Bikalimaatillaahit Taammaati min Syarri Maa Khalaq"</item>
+        <item>"Allahumma salli wa sallim wa barik ala nabiyyina muhammadin"</item>
+        <item>"Astaghfirullahal'adzim, alladzi la ilaha illa huwal hayyul qoyyumu wa atubu ilaih"</item>
+        <item>"Lâ ilâha illa Allah wahdahu la syarîkalah lahu al-mulk wa lahu al-hamd wa huwa ala kulli syai qadir"</item>
+        <item>"Subhanallahu wabihamdih"</item>
+    </string-array>
+
+    <string-array name ="artisore">
+        <item>"Artinya:\nAllah, tidak ada Tuhan (yang berhak disembah), melainkan Dia yang hidup kekal, lagi terus menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang dilangit dan dibumi. Tiada yang dapat memberi syafa’at di sisi Allah tanpa seizin-Nya. Allah mengetahui apa-apa yang ada dihadapan mereka dan dibelakang mereka. Dan mereka tidak mengetahui apa-apa dari ilmu Allah, melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar."</item>
+        <item>"Artinya:\nKatakanlah: Dialah Allah, Yang Maha Esa. Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorangpun yang setara dengan Dia."</item>
+        <item>"Artinya:\nKatakanlah: Aku berlindung kepada Tuhan Yang Menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan pendengki bila ia dengki."</item>
+        <item>"Artinya:\nKatakanlah: Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia, dari (golongan) jin dan manusia."</item>
+        <item>"Artinya:\nKami telah memasuki waktu sore, kerajaan milik Allah, segala puji bagi Allah. Tidak ada Tuhan yang berhak disembah selain Allah Yang Maha Esa, tiada sekutu bagi-Nya. Bagi-Nya kerajaan dan bagi-Nya pujian. Dia-lah yang Maha Kuasa atas segala sesuatu. Ya Tuhanku, aku mohon kepada-Mu kebaikan hari ini dan kebaikan sesudahnya. Aku berlindung kepada-Mu dari kejahatan hari ini dan kejahatan sesudahnya. Wahai Tuhan-ku, aku berlindung kepada-Mu dari kemalasan dan kejelekan di hari tua. Wahai Tuhanku, aku berlindung kepada-Mu dari siksaan di neraka dan siksaan di kubur."</item>
+        <item>"Artinya:\nYa Allah, Engkau adalah Tuhanku, tiada Tuhan yang berhak disembah kecuali Engkau, Engkaulah yang menciptakan aku. Aku adalah hamba-Mu. Aku akan setia pada perjanjianku dengan-Mu semampuku. Aku berlindung kepada-Mu dari kejelekan yang aku perbuat. Aku mengakui nikmat-Mu kepadaku dan aku mengakui dosaku, oleh karena itu, ampunilah dosaku. Sesungguhnya tiada yang dapat mengampuni dosa kecuali Engkau."</item>
+        <item>"Artinya:\nAku ridha Allah sebagai Tuhan-(ku), Islam sebagai agama-(ku) dan Muhammad ﷺ sebagai nabi-(ku)."</item>
+        <item>"Artinya:\nYa Allah, sesungguhnya aku di waktu sore bersaksi kepada-Mu, malaikat yang memikul ‘Arasy-Mu, malaikat-malaikat dan seluruh makhluk-Mu, sesungguhnya Engkau adalah Allah, tiada Tuhan yang berhak disembah kecuali Engkau Yang Maha Esa, tiada sekutu bagi-Mu dan sesungguhnya Muhammad adalah hamba dan utusan-Mu."</item>
+        <item>"Artinya:\nYa Allah, nikmat yang kuterima atau diterima oleh seseorang di antara makhluk-Mu di pagi ini adalah dari-Mu. Maha Esa Engkau, tiada sekutu bagi-Mu. Bagi-Mu segala puji dan kepada-Mu panjatan syukur (dari seluruh makhluk-Mu)."</item>
+        <item>"Artinya:\nCukup bagiku Allah (sebagai pelindung), tiada Tuhan (yang berhak disembah) kecuali Dia. Kepada-Nya aku bertawakkal dan Dia adalah Tuhan ‘Arasy yang Agung."</item>
+        <item>"Artinya:\nDengan nama Allah yang bila disebut, segala sesuatu di bumi dan langit tidak akan berbahaya. Dialah Yang Maha Mengetahui."</item>
+        <item>"Artinya:\nYa Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu sore. Dengan rahmat dan pertolongan-Mu kami hidup dan dengan kehendak-Mu kami mati. Dan kepada-Mu kebangkitan (bagi semua makhluk)."</item>
+        <item>"Artinya:\nKami di waktu sore, sedang kerajaan milik Allah, Tuhan penguasa alam. Ya Allah, sesungguhnya aku mohon kepada-Mu agar memperoleh kebaikan, pembuka (rahmat) pertolongan, cahaya, berkah, dan petunjuk di hari ini. Aku berlindung kepada-Mu dari kejelekan apa yang ada didalamnya dan kejahatan sesudahnya."</item>
+        <item>"Artinya:\nMaha Suci Allah, aku memuji-Nya sebanyak makhluk-Nya, sejauh kerelaan-Nya, seberat timbangan ‘Arasy-Nya dan sebanyak tinta tulisan kalimat-Nya." (Tiga kali hanya pada pagi hari"</item>
+        <item>"Artinya:\nYa Allah, selamatkan tubuh-ku (dari penyakit dan yang tidak aku inginkan). Ya Allah, selamatkan pendengaranku (dari penyakit dan maksiat atau sesuatu yang tidak aku inginkan). Ya Allah, selamatkan penglihatanku, tiada Tuhan (yang berhak disembah) kecuali Engkau. Ya Allah!, Sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tiada Tuhan (yang berhak disembah) kecuali Engkau."</item>
+        <item>"Artinya:\nYa Allah!, Sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tiada Tuhan (yang berhak disembah) kecuali Engkau."</item>
+        <item>"Artinya:\nYa Allah, sesungguhnya aku mohon kepada-Mu ampunan dan keselamatan di dunia dan akhirat. Ya Allah sesungguhnya aku mohon kepada-Mu ampunan dan keselamatan: dalam agamaku, (kehidupan) duniaku, keluargaku, hartaku. Ya Allah tutuplah auratku (aib dan sesuatu yang tidak layak di lihat orang lain) dan berilah ketentraman di hatiku. Ya Allah, peliharalah aku dari arah depan, belakang, kanan, kiri dan atasku. Aku berlindung dengan kebesaran-Mu, agar aku tidak mendapat bahaya dari bawahku"</item>
+        <item>"Artinya:\nWahai Yang Maha Hidup dan Maha Terjaga, dengan rahmat-Mu aku minta pertolongan, perbaikilah segala urusanku dan jangan Engkau limpahkan (semua urusan) terhadap diriku walau sekejap mata."</item>
+        <item>"Artinya:\nKami di waktu sore, sedang kerajaan milik Allah, Tuhan penguasa alam. Ya Allah, sesungguhnya aku mohon kepada-Mu agar memperoleh kebaikan, pembuka (rahmat) pertolongan, cahaya, berkah, dan petunjuk di hari ini. Aku berlindung kepada-Mu dari kejelekan apa yang ada didalamnya dan kejahatan sesudahnya."</item>
+        <item>"Artinya:\nYa Allah, Yang Maha Mengetahui yang ghaib dan yang nyata. Wahai Tuhan Pencipta langit dan bumi, Tuhan segala sesuatu yang merajainya. Aku bersaksi bahwa tiada tuhan yang berhak disembah kecuali Engkau. Aku berlindung kepada-Mu dari kejahatan diriku, setan dan bala tentaranya, atau aku menjalankan kejelekan terhadap diriku atau mendorong orang Islam padanya."</item>
+        <item>"Artinya:\nAku berlindung dengan kalimat-kalimat Allah yang sempurna dari kejahatan apa yang Dia ciptakan."</item>
+        <item>"Artinya:\nYa Allah, (sampaikanlah) shalawat dan salam kepada Nabi kami Muhammad ﷺ."</item>
+        <item>"Artinya:\nAku minta ampun kepada Allah dan bertaubat kepada-Nya."</item>
+        <item>"Artinya:\nTiada Tuhan yang berhak disembah selain Allah, Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujaan. Dia Maha Kuasa atas segala sesuatu."</item>
+        <item>"Artinya:\nMaha Suci Allah dan segala puji (bagi-Nya)."</item>
+    </string-array>
+
+    <string-array name ="sumbersore">
+        <item>"Sumber:\nHR. Hakim 1/562. Dishahihkan oleh Al Albani dalam Shahih Targhib wat Tarhib 1/273. Beliau menisbatkannya kepada Nasai dan Thabrani. Beliau berkata, "Sanad Thabrani baik."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/322 No. 5082 dan HR. Tirmidzi 5/567 No. 3575. Lihat Shahih Tirmidzi 3/182."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/322 No. 5082 dan HR. Tirmidzi 5/567 No. 3575. Lihat Shahih Tirmidzi 3/182."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/322 No. 5082 dan HR. Tirmidzi 5/567 No. 3575. Lihat Shahih Tirmidzi 3/182."</item>
+        <item>"Sumber:\nHR. Muslim 4/2088 No. 2723."</item>
+        <item>"Sumber:\n"Siapa yang membacanya dengan yakin pada sore hari, kemudian dia meninggal, maka dia akan masuk surga. Demikian juga jika (dibaca) pada pagi hari." HR. Bukhari 7/150 No. 6306."</item>
+        <item>"Sumber:\n"Siapa yang membacanya tiga kali saat pagi dan petang tiga kali, Allah pasti akan meridhainya pada hari kiamat." HR. Ahmad 4/337 No. 18967, HR. Nasai dalam 'Amalul Yaumi wal Lailah No. 4, HR. Ibnus Sunni No. 68, HR. Abu Daud 4/318 No. 1531, dan HR. Tirmidzi 5/465 No. 3389. Ibnu Baz menghasankan sanadnya pada Tuhfatul Akhyar hal. 39."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/317 No. 5071, HR. Bukhari dalam Adabul Mufrad No. 1201, HR. Nasai dalam 'Amalul Yaumi wal Lailah No. 9, dan HR. Ibnus Sunni No. 70. Sanad Abu Daud dan Nasai dihasankan oleh Ibnu Baz dalam Tuhfatul Akhyar hal. 23."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/318 No. 5075, HR. Nasai dalam 'Amalul Yaumi wal Lailah No. 7, HR. Ibnus Sunni No. 41, dan HR. Ibnu Hibban dalam Al Mawarid No. 2361. Ibnu Baz menghasankan sanadnya pada Tuhfatul Akhyar hal. 24."</item>
+        <item>"Sumber:\nHR. Ibnus Sunni dalam 'Amalul Yaumi wal Lailah No. 71 secara marfu' dan HR. Abu Daud 4/321 No. 5081 secara mauquf. Sanadnya dishahihkan oleh Syu'ain dan Abdul Qadir Al Arnauth. Lihat Zadul Ma'ad 2/376."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/323 No. 5088, HR. Tirmidzi 5/465 No. 3388, HR. Ibnu Majah No. 3869, dan HR. Ahmad No. 446. Lihat Shahih Ibnu Majah 2/332. Sanadnya dihasankan oleh Ibnu Baz dalam Tuhfatul Akhyar hal. 39."</item>
+        <item>"Sumber:\nHR. Tirmidzi 5/466 No. 3391. Lihat Shahih Tirmidzi 3/142."</item>
+        <item>"Sumber:\nHR. Abu Daud 4/322 No. 5084 Sanadnya dihasankan oleh Syu'aib dan Abdul Qadir Al Arnauth dalam tahqiq Zadul Ma'ad 2/373."</item>
+        <item>"Sumber:\nHR. Muslim 4/2090 No. 2726"</item>
+        <item>"Sumber:\nHR. Abu Daud 4/324 No. 5092, HR. Ahmad 5/42 No. 20430, HR. Nasai dalam 'Amalul Yaumi wal Lailah No. 22, HR. Ibnus Sunni No. 69, dan HR. Bukhari dalam Adabul mufrad No. 701. Ibnu Baz menghasankan sanadnya pada Tuhfatul Akhyar hal. 26."</item>
+        <item>"Sumber:\nHR. Abu Daud No. 5074 dan HR. Ibnu Majah No. 3871. Lihat Shahih Ibnu Majah 2/332."</item>
+        <item>"Sumber:\nHR. Hakim dan beliau menshahihkannya. Disetujui oleh Adz Dzahabi 1/545. Lihat Shahih Targhib wat Tarhib 1/273"</item>
+        <item>"Sumber:\nHR. Abu Daud 4/322 No. 5084 Sanadnya dihasankan oleh Syu'aib dan Abdul Qadir Al Arnauth dalam tahqiq Zadul Ma'ad 2/373."</item>
+        <item>"Sumber:\nHR. Tirmidzi No. 3392 dan HR. Abu Daud No. 5067. Lihat Shahih Tirmidzi 3/142."</item>
+        <item>"Sumber:\nHR. Ahmad 2/290 No. 7898, HR. Nasai dalam 'Amalul Yaumi wal Lailah No. 590, dan HR. Ibnus Sunni No. 68. Lihat Shahih Tirmidzi 3/187, Shahih Ibnu Majah 2/266, dan Tuhfatul Akhyar hal. 45."</item>
+        <item>"Sumber:\n"Siapa yang bershalawat kepadaku saat pagi sepuluh kali dan sore sepuluh kali, dia akan mendapatkan syafa'atku pada hari kiamat." HR. Thabrani melalaui dua sanad, salah satunya baik. Lihat Majma'uz Zawaid 10/120 dan Shahih Targhib wat Tarhib 1/273."</item>
+        <item>"Sumber:\nHR. Bukhari dalam Fathul Bari 11/101 No. 6307 dan HR. Muslim 4/2075 No. 2702."</item>
+        <item>"Sumber:\nHR. Nasai dalam 'Amalul Yaumi wal Lailah No. 24. Lihat Shahih Targhib wat Tarhib 1/272, Tuhfatul Akhyar karya Ibnu Baz hal. 44."</item>
+        <item>"Sumber:\nHR. Muslim 4/2071 No. 2692."</item>
+        <item>"Sumber:\nHR. Muslim 4/2071 No. 2692."</item>
+    </string-array>
+
+    <string-array name ="bacasore">
+        <item>Baca 1x</item>
+        <item>Baca 3x</item>
+        <item>Baca 3x</item>
+        <item>Baca 3x</item>
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+        <item>Baca 3x</item>
+        <item>Baca 4x</item>
+        <item>Baca 1x</item>
+        <item>Baca 7x</item>
+        <item>Baca 3x</item>
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+        <item>Baca 3x</item>
+        <item>Baca 3x</item>
+        <item>Baca 3x</item>
+        <item>Baca 1x</item>
+        <item>Baca 3x</item>
+        <item>Baca 1x</item>
+        <item>Baca 1x</item>
+        <item>Baca 3x</item>
+        <item>Baca 10x</item>
+        <item>Baca 3x</item>
+        <item>Baca 10x</item>
+        <item>Baca 100x</item>
+    </string-array>
+
+</resources>

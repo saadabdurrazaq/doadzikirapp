@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dzikirshalat">
+        <item>"أسـتغفر الله، أسـتغفر الله، أسـتغفر الله. اللهـم أنـت السلام ، ومـنك السلام ، تباركت يا ذا الجـلال والإكـرام"</item>
+
+        <item> "لا إله إلا الله وحده لا شريك له، له المـلك وله الحمد، وهو على كل شيء قدير، اللهـم لا مانع لما أعطـيت، ولا معطـي لما منـعت، ولا ينفـع ذا الجـد منـك الجـد"</item>
+
+        <item>"لا إله إلا الله, وحده لا شريك له، له الملك وله الحمد، وهو على كل شيء قدير، لا حـول ولا قـوة إلا بالله، لا إله إلا اللـه، ولا نعـبـد إلا إيـاه, له النعـمة وله الفضل وله الثـناء الحـسن، لا إله إلا الله مخلصـين لـه الدين ولو كـره الكـافرون"</item>
+
+        <item> "سـبحان الله، والحمـد لله ، والله أكـبر. (ثلاثا وثلاثين). لا إله إلا الله وحـده لا شريك له، له الملك وله الحمد، وهو على كل شيء قـدير"</item>
+
+        <item>"أعوذ بالله من الشيطان الرجيم : اللّهُ لاَ إِلَـهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ"</item>
+
+        <item>"بسم الله الرحمن الرحيم : قُلْ هُوَ اللَّهُ أَحَدٌ * اللَّهُ الصَّمَدُ * لَمْ يَلِدْ وَلَمْ يُولَدْ * وَلَمْ يَكُن لَّهُ كُفُواً أَحَدٌ"</item>
+
+        <item>"بسم الله الرحمن الرحيم : قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ * مِن شَرِّ مَا خَلَقَ * وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ * وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ * وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"</item>
+
+        <item>"بسم الله الرحمن الرحيم : قُلْ أَعُوذُ بِرَبِّ النَّاسِ * مَلِكِ النَّاسِ * إِلَهِ النَّاسِ * مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ * الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ * مِنَ الْجِنَّةِ وَالنَّاسِ"</item>
+
+        <item>"لا إله إلا الله وحـده لا شريك له، له الملك وله الحمد، يحيـي ويمـيت وهو على كل شيء قدير"</item>
+
+    </string-array>
+    <string-array name="latindzikir">
+        <item>"Astaghfirullah, astaghfirullah, astaghfirullah. Allahumma anta assalam wa minkas salam tabarakta ya dzal jalali wal ikram"</item>
+        <item>"Lâ ilâha illa Allah wahdahu la syarîkalah lahu lahu al-mulk wa lahu al-hamd wa huwa ala kulli syai qadir. Allahumma la mani a lima a thaita wa la mu’thiya lima mana’ta wa la yanfa’u dzal jadii minkal jaddu, la ilaha illa anta."</item>
+        <item>"Lâ ilâha illa Allah wahdahu la syarîkalah lahu lahu al-mulk wa lahu al-hamd wa huwa ala kulli syai qadir. laa hawla wa laa quwwata illa billah. Laa ilaha illallah wa laa na'budu illa iyyah. Lahun ni'mah wa lahul fadhl wa lahuts tsanaaul hasan. Laa ilaha illallah mukhlishiina lahud diin wa law karihal kaafiruun."</item>
+        <item>"Subhanallah, walhamdulillah, wallahu akbar. Lâ ilâha illa Allah wahdahu la syarîkalah lahu lahu al-mulk wa lahu al-hamd wa huwa ala kulli syai qadir."</item>
+        <item>"Allahu la ilaha illa Huwa, Al-Haiyul-Qaiyum La ta'khudhuhu sinatun wa la nawm, lahu ma fis-samawati wa ma fil-'ard Man dhal-ladhi yashfa'u 'indahu illa bi-idhnihi Ya'lamu ma baina aidihim wa ma khalfahum, wa la yuhituna bi shai'im-min 'ilmihi illa bima sha'a Wasi'a kursiyuhus-samawati wal ard, wa la ya'uduhu hifdhuhuma Wa Huwal 'Aliyul-Adheem"</item>
+        <item>"Qul huwallahu ahad. Allahu somad. Lam yalid walam yulad. Walam yakun lahu kufuwan ahad. "</item>
+        <item>"Qul a’udzu bi rabbil falaq. Min syarri maa khalaq. Wa min syarri ghasiqin idzaa waqab.Wa min syarrin-naffaatsaati fil ‘uqad. Wa min syarri hasidin idzaa hasad."</item>
+        <item>"Qul ‘audzu bi rabbin-naas. Malikin-naas. Ilaahin-naas. Min syarril was-waasil khannas. Alladzii yuwaswisu fii shudurin-naas. Minal jinnati wan-naas."</item>
+        <item>"Lâ ilâha illa Allah wahdahu la syarîkalah lahu al-mulk wa lahu al-hamd wa huwa ala kulli syai qadir"</item>
+    </string-array>
+    <string-array name="artidzikir">
+        <item>"Artinya:\nAku minta ampun kepada Allah." (Tiga kali). "Ya Allah, Engkau pemberi keselamatan, dan dari-Mu keselamatan, Maha Suci Engkau, wahai Tuhan Yang Maha Agung dan Maha Mulia."</item>
+        <item>"Artinya:\nTiada Tuhan selain Allah Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya puji dan bagi-Nya Kerajaan. Dia Maha Kuasa atas segala sesuatu. Ya Allah tidak ada yang dapat mencegah apa yang Engkau berikan dan tidak ada yang mampu memberi apa yang Engkau cegah. Nasib baik seseorang tiada berguna untuk menyelamatkan ancaman dari-Mu."</item>
+        <item>"Artinya:\nTiada Tuhan yang berhak disembah selain Allah, Yang Maha Esa, tidak ada sekutu bagi-Nya. Bagi-Nya kerajaan dan pujaan. Dia Maha Kuasa atas segala sesuatu. Tidak ada daya dan kekuatan kecuali (dengan pertolongan) Allah. Tiada Tuhan yang berhak disembah selain Allah. Kami tidak menyembah kecuali kepada-Nya. Baginya nikmat, anugerah, dan pujaan yang baik. Tiada Tuhan yang berhak disembah selain Allah, dengan memurnikan ibadah kepada-Nya, sekalipun orang-orang kafir membencinya."</item>
+        <item>"Artinya:\nMaha Suci Allah, Segala puji bagi Allah, Allah Maha Besar." (33 kali). “Tiada Tuhan yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya, bagi-Nya kerajaan, bagi-Nya pujian dan Dia berkuasa atas segala sesuatu"</item>
+        <item>"Artinya:\nAllah, tidak ada Tuhan (yang berhak disembah), melainkan Dia yang hidup kekal, lagi terus menerus mengurus (makhluk-Nya). Tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang dilangit dan dibumi. Tiada yang dapat memberi syafa’at di sisi Allah tanpa seizin-Nya. Allah mengetahui apa-apa yang ada dihadapan mereka dan dibelakang mereka. Dan mereka tidak mengetahui apa-apa dari ilmu Allah, melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya. Dan Allah Maha Tinggi lagi Maha Besar."</item>
+        <item>"Artinya:\nKatakanlah: Dialah Allah, Yang Maha Esa. Allah adalah Tuhan yang bergantung kepada-Nya segala sesuatu. Dia tiada beranak dan tidak pula diperanakkan, dan tidak ada seorangpun yang setara dengan Dia."</item>
+        <item>"Artinya:\nKatakanlah: Aku berlindung kepada Tuhan Yang Menguasai subuh, dari kejahatan makhluk-Nya, dan dari kejahatan malam apabila telah gelap gulita, dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul, dan dari kejahatan pendengki bila ia dengki."</item>
+        <item>"Artinya:\nKatakanlah: Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi, yang membisikkan (kejahatan) ke dalam dada manusia, dari (golongan) jin dan manusia."</item>
+        <item>"Artinya:\nTiada Tuhan yang berhak disembah selain Allah semata, tidak ada sekutu bagi-Nya, bagi-Nya kerajaan, bagi-Nya pujian, Dia Menghidupkan dan Mematikan dan Dia berkuasa atas segala sesuatu."</item>
+    </string-array>
+    <string-array name="sumberdzikir">
+        <item>"Sumber:\nHR. Muslim 1/414 No. 591."</item>
+        <item>"Sumber:\nHR. Bukhari 1/225 No. 844 dan HR. Muslim 1/414 No. 593."</item>
+        <item>"Sumber:\nHR. Muslim 1/415 No. 594."</item>
+        <item>"Sumber:\nHR. Muslim 1/418 No. 597."</item>
+        <item>"Sumber:\nHR. An Nasai dalam 'Amalul Yaumi wal Lailah No. 100, HR. Ibnus Sunni No. 121. Dishahihkan oleh Al Albani pada Shahihul Jami' 5/339 dan Silsilah Hadits Shahih 2/697 No. 972."</item>
+        <item>"Sumber:\nHR. Abu Daud 2/86 No. 1523, HR. Tirmidzi No. 2903, HR. An Nasai 3/68 No. 1335. Lihat Shahih Tirmidzi 2/8. Ketiga surat tersebut disebut juga Al Mu'awwidzaat. Lihat Fathul Bari 9/62."</item>
+        <item>"Sumber:\nHR. Abu Daud 2/86 No. 1523, HR. Tirmidzi No. 2903, HR. An Nasai 3/68 No. 1335. Lihat Shahih Tirmidzi 2/8. Ketiga surat tersebut disebut juga Al Mu'awwidzaat. Lihat Fathul Bari 9/62."</item>
+        <item>"Sumber:\nHR. Abu Daud 2/86 No. 1523, HR. Tirmidzi No. 2903, HR. An Nasai 3/68 No. 1335. Lihat Shahih Tirmidzi 2/8. Ketiga surat tersebut disebut juga Al Mu'awwidzaat. Lihat Fathul Bari 9/62."</item>
+        <item>"Sumber:\nHR. Tirmidzi 5/515 No. 3472 dan HR. Ahmad 4/227 No. 17990. Lihat takhrij hadits pada Zadul Ma'aad 1/300"</item>
+    </string-array>
+    <string-array name="bacadzikir">
+        <item>"Baca 1x"</item>
+        <item>"Baca 1x"</item>
+        <item>"Baca 1x"</item>
+        <item>"Baca 33x"</item>
+        <item>"Baca 1x"</item>
+        <item>"Baca 3x"</item>
+        <item>"Baca 3x"</item>
+        <item>"Baca 3x"</item>
+        <item>"Baca 1x"</item>
+    </string-array>
+</resources>

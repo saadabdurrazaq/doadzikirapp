@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">&#160;Doa dan Dzikir</string>
+    <string name="action_settings">Settings</string>
+    <string name="toolbar_title">Contacts</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type name…</string>
+    <string name="logo_desc">&#160;Doa dan Dzikir</string>
+    <string name="desc_about">Aplikasi Doa dan Dzikir menghimpun dzikir dan doa menurut Al-Quran dan hadits shahih. Aplikasi ini memiliki fitur read count, share, salin dan segenap fitur lainnya. \n\nTauhid.or.id berusaha menghadirkan aplikasi yang bermanfaat bagi kaum muslimin</string>
+
+    <!-- Dropdown lists -->
+    <string name="country_prompt">Choose a size</string>
+    <string-array name="country_arrays">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+    </string-array>
+
+    <string name="country_prompt2">Choose a size</string>
+    <string-array name="size_arrays">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>22</item>
+        <item>24</item>
+        <item>26</item>
+    </string-array>
+
+    <string name="type_font">Choose a type</string>
+    <string-array name="type_arab">
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Type 3</item>
+        <item>Type 4</item>
+    </string-array>
+
+    <string name="type_font2">Choose a type</string>
+    <string-array name="type_latin">
+        <item>Type 1</item>
+        <item>Type 2</item>
+        <item>Type 3</item>
+        <item>Type 4</item>
+    </string-array>
+
+</resources>

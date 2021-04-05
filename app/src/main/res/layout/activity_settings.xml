@@ -1,0 +1,170 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="#226169"
+        app:layout_collapseMode="pin"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/reldoa"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="3dp"
+                android:background="@android:color/white"
+                android:orientation="vertical">
+
+        <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#d6d7d7" />
+
+            </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textViewDesc1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengaturan Audio"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="#ECECEC"/>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/reldoa"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="3dp"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <ProgressBar
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            style="?android:attr/progressBarStyleHorizontal"/>
+
+        <Button
+            android:id="@+id/tombolDownload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="15dp"
+            android:text="Download"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textViewDesc2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Pengaturan Notifikasi"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:background="#ECECEC"/>
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/reldoa"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="3dp"
+            android:background="@android:color/white"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewNotif"
+                android:layout_width="fill_parent"
+                android:layout_height="100dp"
+                android:gravity="center"
+                android:text="Pengaturan notifikasi belum tersedia untuk saat ini"
+                android:textColor="#9B9B9B"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textViewDesc3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Pengaturan Tema"
+            android:paddingLeft="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:background="#ECECEC"/>
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="fill_parent"
+            android:layout_height="200dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:background="@android:color/white">
+
+            <RadioGroup
+                android:id="@+id/radioSex"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/theme1"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:background="#226169"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="15dp"
+                android:button="@null"
+                android:drawableTop="@android:drawable/btn_radio"
+                android:paddingLeft="100dip" />
+
+                <RadioButton
+                    android:id="@+id/theme2"
+                    android:layout_width="150dp"
+                    android:layout_height="150dp"
+                    android:layout_weight="1"
+                    android:background="#E76453"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="35dp"
+                    android:button="@null"
+                    android:drawableTop="@android:drawable/btn_radio"
+                    android:paddingLeft="100dip" />
+
+            </RadioGroup>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
